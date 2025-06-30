@@ -15,3 +15,7 @@
 - Created GitHub repo ✅
 - Defined focus + system ✅
 - Next: Upload Course 6 notes + TryHackMe write-up
+
+- ## 🧠 TryHackMe Progress:
+View my active progress and completed rooms [here](https://tryhackme.com/p/ashour4).
+
