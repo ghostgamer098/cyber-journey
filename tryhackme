@@ -1,1 +1,15 @@
+# Room: Introduction to Cyber Security
+
+## Topics Learned:
+- The CIA Triad
+- Authentication vs Authorization
+- Password cracking basics
+
+## Tools Used:
+- nmap
+- netcat
+- Wireshark
+
+## Takeaway:
+Learned basic terminology and concepts of network security, foundational for blue team/defense.
 
