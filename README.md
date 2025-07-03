@@ -3,7 +3,7 @@
 
 ## 🌐 Connect With Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abbass-chour)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abbass-chour-1637302a5)
 
 
 
