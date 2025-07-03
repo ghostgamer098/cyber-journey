@@ -16,7 +16,12 @@
 - Building labs + real-world simulations
 - Working on some projects 
 
+## 🎓 Coursera Achievements
 
+- ✅ [Internet History, Technology, and Security – University of Michigan](https://www.coursera.org/account/accomplishments/records/5FJMIGSX4WB0)
+- ✅ [Introduction to Blockchain Technologies – INSEAD](https://www.coursera.org/account/accomplishments/records/GLEAX5VD3WHC)
+- ✅ [Introduction to Generative AI – Google Cloud](https://www.coursera.org/account/accomplishments/records/FVFT4WUKMUAE)
+- ✅ [Introduction to HTML5 – University of Michigan](https://www.coursera.org/account/accomplishments/records/TZW7P5MUW5MS)
 
 
 - ## 🧠 TryHackMe Progress:
