@@ -1,7 +1,10 @@
 # cyber-journey
 # Cyber Journey 🚀
 
-<a href= "www.linkedin.com/in/abbass-chour-1637302a5"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s"<a/>
+## 🌐 Connect With Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abbass-chour)
+
 
 
 ## Who I Am:
